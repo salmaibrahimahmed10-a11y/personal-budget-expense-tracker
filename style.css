@@ -160,3 +160,11 @@ iframe {
     max-width: 100%;
     border-radius: 8px;
 }
+/* Page heading card */
+h1 {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #DCE5ED;
+    border-radius: 10px;
+}
