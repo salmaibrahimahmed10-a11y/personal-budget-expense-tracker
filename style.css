@@ -346,3 +346,21 @@ tbody tr:hover {
         color: var(--brand-color);
     }
 }
+
+/* =================================
+   11. DARK THEME
+================================= */
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --brand-color: #90BCE8;
+        --accent-color: #55C995;
+        --surface-color: #1E293B;
+        --background-color: #0F172A;
+        --primary-text-color: #F1F5F9;
+        --secondary-text-color: #CBD5E1;
+        --border-color: #334155;
+        --hover-color: #315A80;
+        --shadow-color: rgba(0, 0, 0, 0.35);
+    }
+}
