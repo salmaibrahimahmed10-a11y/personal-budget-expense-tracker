@@ -1,60 +1,72 @@
-﻿# personal-budget-expense-tracker# My Budget Tracker
+﻿# 
+
+# \# SpendWise Dashboard
 
 # 
 
 # \## Project Description
 
-# My Budget Tracker is a simple web application designed to help users record and manage their daily expenses. It allows users to enter expense names, amounts, and categories, and view their expenses in an organized table.
+# SpendWise is a simple financial dashboard designed to display a user's financial overview, expense categories, and recent transactions.
 
 # 
 
-# \## Project Files
+# \## Features
+
+# \- Sidebar navigation menu.
+
+# \- Dashboard header.
+
+# \- Financial summary showing total income, expenses, and remaining balance.
+
+# \- Six expense category cards:
+
+# &#x20; - Food
+
+# &#x20; - Transport
+
+# &#x20; - Rent
+
+# &#x20; - Entertainment
+
+# &#x20; - Savings
+
+# &#x20; - Utilities
+
+# \- Recent transactions table.
+
+# \- Responsive layout for mobile devices.
+
+# \- Hover and keyboard focus animations.
 
 # 
 
-# \### 1. index.html
+# \## Technologies Used
 
-# This file contains the HTML structure of the Budget Tracker, including:
+# \- HTML5
 
-# \- Main page heading.
+# \- CSS3
 
-# \- Add Expense form.
+# \- CSS Grid
 
-# \- Expense table displaying sample expenses.
+# \- Flexbox
 
-# \- Budgeting tips video section.
-
-# 
-
-# \### 2. style.css
-
-# This file contains the CSS styling used to improve the visual appearance of the application. It includes:
-
-# \- A consistent blue and green colour palette.
-
-# \- Google Fonts for headings and body text.
-
-# \- Styling for form inputs, dropdowns, and buttons.
-
-# \- Expense table styling with borders, padding, and alternating row colours.
-
-# \- CSS Box Model properties such as margin, padding, borders, and border-radius to create separate visual sections.
+# \- CSS Custom Properties
 
 # 
 
-# \### 3. README.md
+# \## Project Structure
 
-# This file describes the Budget Tracker project and explains the purpose of each project file.
+# \- index.html
 
-# 
+# \- style.css
 
-# \## Design Choices
-
-# The application uses blue to represent trust and reliability and green to represent money and financial growth. Poppins is used for headings, while Roboto is used for body text to improve readability.
+# \- README.md
 
 # 
 
-# \## Conclusion
+# \## Author
 
-# The goal of this project is to create a clean, professional, and user-friendly Budget Tracker through effective use of CSS styling and the CSS Box Model.
+# Created as a learning project.
+
+
 
